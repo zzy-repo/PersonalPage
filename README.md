@@ -1,5 +1,37 @@
-# Vue 3 + Vite
+# 🚀 My Personal Website 🌐
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+欢迎来到我的个人网站！这是一个基于Vue框架的响应式网站，展示了我的技能、项目和实践经历。👨‍💻✨
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 📖 项目描述
+
+这个网站是一个个人专业技能的展示平台。它包括以下页面：
+
+- 🏠 Home
+- 👤 About Me
+- 🛠️ Skills
+- 📚 Projects
+- 🎓 School Experiences
+- 📧 Contact
+- 🏁 End
+
+## 🛠️ 技术栈
+
+- **Vue.js** - 构建用户界面的渐进式框架。
+- **Grid & Flexbox** - 实现响应式设计。
+- **Canvas** - 引入动态背景。
+- **SCSS** - 样式管理，提供统一的视觉效果。
+- **原生CSS & JavaScript** - 构建界面，避免依赖组件库。
+
+## ✨ 功能亮点
+
+- **平滑界面跳转动画** - 提升用户体验。
+- **动画懒加载技术** - 优化动效，提高网站性能。
+- **3D悬浮卡片** - 丰富和动态的视觉体验。
+
+## 📝 Todo List
+
+- [ ] 清理并重构代码
+- [ ] 功能和数据解耦
+- [ ] 修复已知的一些bug
+- [ ] 完善动效
+- [ ] 添加一个个人demo界面
