@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Java",
+    "color": "#FFD700",
+    "percent": 82,
+    "delay": 1000,
+    "text": "熟练"
+  },
+  {
+    "name": "SprintBoot",
+    "color": "#32CD32",
+    "percent": 77,
+    "delay": 1200,
+    "text": "熟练"
+  },
+  {
+    "name": "Go",
+    "color": "#FF6347",
+    "percent": 84,
+    "delay": 300,
+    "text": "熟练"
+  },
+  {
+    "name": "MyBatisPlus",
+    "color": "#40E0D0",
+    "percent": 68,
+    "delay": 800,
+    "text": "熟悉"
+  },
+  {
+    "name": "mysql",
+    "color": "#FF69B4",
+    "percent": 72,
+    "delay": 1400,
+    "text": "熟悉"
+  },
+  {
+    "name": "redis",
+    "color": "#8A2BE2",
+    "percent": 66,
+    "delay": 500,
+    "text": "熟悉"
+  }
+]

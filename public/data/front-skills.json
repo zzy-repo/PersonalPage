@@ -1,0 +1,60 @@
+[
+  {
+    "name": "HTML5",
+    "color": "#3498db",
+    "percent": 88,
+    "delay": 1100,
+    "text": "熟练",
+    "icon": "fa fa-html5"
+  },
+  {
+    "name": "CSS3",
+    "color": "#9b59b6",
+    "percent": 92,
+    "delay": 300,
+    "text": "熟练",
+    "icon": "fa fa-css3"
+  },
+  {
+    "name": "Javascript",
+    "color": "#e67e22",
+    "percent": 83,
+    "delay": 900,
+    "text": "熟练"
+  },
+  {
+    "name": "vue",
+    "color": "#2ecc71",
+    "percent": 62,
+    "delay": 600,
+    "text": "熟悉"
+  },
+  {
+    "name": "vite",
+    "color": "#e74c3c",
+    "percent": 57,
+    "delay": 1400,
+    "text": "熟悉"
+  },
+  {
+    "name": "vue-router",
+    "color": "#f1c40f",
+    "percent": 64,
+    "delay": 750,
+    "text": "熟悉"
+  },
+  {
+    "name": "pinia",
+    "color": "#1abc9c",
+    "percent": 58,
+    "delay": 1250,
+    "text": "熟悉"
+  },
+  {
+    "name": "axios",
+    "color": "#9f86ff",
+    "percent": 63,
+    "delay": 200,
+    "text": "熟悉"
+  }
+]
