@@ -69,6 +69,8 @@ nav {
   width: 100%;
   box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
   opacity: 1;
+  top:0;
+  left:0;
   transition: all 0.5s;
   position: fixed;
 }

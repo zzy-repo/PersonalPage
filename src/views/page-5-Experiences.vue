@@ -40,9 +40,10 @@ onMounted(() => {
                       <div class="uia-card__body">
                         <div class="uia-card__description">
                           <p style="color: #777777; line-height: 1.8;">
-                            1,主导负责社团创建相关工作如校企沟通、社团答辩、社团规划、初步招新、在校宣传等任务 <br>
+                            职责:社团创始人,副社长<br>
+                            1,主导负责社团创建相关工作如<b>校企沟通、社团答辩、社团规划、初步招新、在校宣传</b>等任务 <br>
                             2,负责与团委,影院,以及校内或校外的各大社团进行沟通,联合举办了多次活动 <br>
-                            3,创立并运营社群(现已500人)和社团公众号(800人),在校有一定的影响力 <br>
+                            3,创立并<b>运营社群(现已500人)和社团公众号(800人)</b>,在校有一定的影响力 <br>
                             4,开创性的筹划了日常放映,电影讲座,特惠观影等活动,获得学生一致好评
                           </p>
                         </div>
@@ -70,8 +71,9 @@ onMounted(() => {
                       <div class="uia-card__body">
                         <div class="uia-card__description">
                           <p style="color: #777777; line-height: 1.8;">
-                            1, 主导负责社团创建相关工作如校企沟通、社团答辩、社团规划、初步招新、在校宣传等任务 <br>
-                            2, 统筹策划举办了如华为创享日、华为高校行等大型活动 <br>
+                            职责:社团创始人,社长(现荣誉社长)<br>
+                            1, 主导负责社团创建相关工作如<b>校企沟通、社团答辩、社团规划、初步招新、在校宣传</b>等任务 <br>
+                            2, 统筹策划举办了如<b>华为创享日、华为高校行</b>等大型活动 <br>
                             3, 作为主讲人主持社团在校的各项大小活动 <br>
                             4, 招募在校技术大佬并组建了讲师团体为学生进行日常授课
                           </p>
@@ -91,7 +93,10 @@ onMounted(() => {
                       <div class="uia-card__body">
                         <div class="uia-card__description">
                           <p style="color: #777777; line-height: 1.8;">
-                            在2023年9月份的杭州亚运会比赛期间担任了新闻宣传领域志愿者,积极走访场馆各个角落，收集新闻素材，并负责了领域内的新闻发布会整体策划组织活动
+                            职责:新闻宣传领域志愿者<br>
+                            具体工作:<br>
+                            1.负责了领域内的<b>新闻发布会整体策划</b>组织活动,协助策划完善新闻发布会的整体流程，保证活动的正常运行<br>
+                            2.积极走访场馆各个角落，收集新闻素材,寻找、发掘亚运会期间的新闻亮点，为志愿者和运动员们记录美好时刻
                           </p>
                         </div>
                       </div>
@@ -134,7 +139,11 @@ onMounted(() => {
                       <div class="uia-card__body">
                         <div class="uia-card__description">
                           <p style="color: #777777; line-height: 1.8;">
-                            校科技协会
+                            职责:企划部部长<br>
+                            1.负责与公司合作，策划并执行校园活动：确保活动的成功策划和顺利执行。
+                            2.策划校园活动：负责从创意构思到活动实施的每一个环节。
+                            3.负责与学校团委的协调与沟通，确保活动符合学校政策并获得必要的支持。
+                            4.负责任务分配和管理团队，确保每位成员都能在其擅长的领域发挥最大潜力。
                           </p>
                         </div>
                       </div>
@@ -152,7 +161,9 @@ onMounted(() => {
                       <div class="uia-card__body">
                         <div class="uia-card__description">
                           <p style="color: #777777; line-height: 1.8;">
-                            2022年7月份的乡村振兴社区实践服务中作为讲师为社区学生上课介绍亚运会
+                            职责:讲师<br>
+                            荣誉:杭电暑期社会实践中荣获<b>先进团体、一等奖</b><br>
+                            主要工作:2022年7月份的乡村振兴社区实践服务中作为讲师为社区学生上课介绍亚运会
                           </p>
                         </div>
                       </div>
@@ -163,49 +174,6 @@ onMounted(() => {
               </div>
             </div>
 
-
-            <div class="uia-timeline__annual-sections">
-              <span aria-hidden="true" class="uia-timeline__year">2021</span>
-              <div class="uia-timeline__groups">
-
-                <section aria-labelledby="timeline-demo-4-heading-2" class="uia-timeline__group lazy-animate" style="--i:7">
-                  <div class="uia-timeline__point uia-card" data-uia-card-mod="1" data-uia-card-skin="1">
-                    <div class="uia-card__container">
-                      <div class="uia-card__intro">
-                        <h3 id="timeline-demo-4-heading-2" class="ra-heading"
-                            style="color: #555555;margin-bottom: 15px">杭电校科协</h3>
-                      </div>
-                      <div class="uia-card__body">
-                        <div class="uia-card__description">
-                          <p style="color: #777777; line-height: 1.8;">
-
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </section>
-
-                <section aria-labelledby="timeline-demo-4-heading-2" class="uia-timeline__group lazy-animate" style="--i:8">
-                  <div class="uia-timeline__point uia-card" data-uia-card-mod="1" data-uia-card-skin="1">
-                    <div class="uia-card__container">
-                      <div class="uia-card__intro">
-                        <h3 id="timeline-demo-4-heading-2" class="ra-heading"
-                            style="color: #555555;margin-bottom: 15px">辩论队</h3>
-                      </div>
-                      <div class="uia-card__body">
-                        <div class="uia-card__description">
-                          <p style="color: #777777; line-height: 1.8;">
-
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </section>
-
-              </div>
-            </div>
 
           </div>
         </div>

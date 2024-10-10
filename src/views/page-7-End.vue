@@ -28,7 +28,9 @@ import Background from "@components/background.vue";
           </span>
           <br>
           <span style="--i:4"><br>
-              现在网站的源码正在重构和解耦,将来我会将网站开源在GitHub上面,如果你感兴趣,可以点个star
+            网站的源码已经上传至
+            <a href="https://github.com/zzy-repo/PersonalPage" style="color: #777777;font-weight: bold">GitHub</a>
+            ,感兴趣的话,可以帮忙点个star~🌹🌹🌹
           </span>
         </p>
       </main>
@@ -36,7 +38,6 @@ import Background from "@components/background.vue";
     </div>
 
   </div>
-
 
   <next-page-arrow/>
 </template>

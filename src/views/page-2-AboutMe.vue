@@ -22,7 +22,7 @@ import Background from "@components/background.vue";
           <span style="--i:2">
           现在正专注于<strong>前端开发</strong>技术的领域，热爱并致力于这一行业，因为编程过程中的所见即所得，这激发了持续学习和成长的动力。我期望能够在这一领域深耕，不断产出有价值的内容，为技术发展贡献力量。
           </span>
-          <br>
+          <br><br>
           <span style="--i:3">
           在校期间，已经学习了 <strong>计算机网络、计算机组成原理、数据结构、编译原理等 </strong>计算机科学基础知识。
           此外，通过自学掌握了前端技术如<strong> HTML、CSS、JavaScript、Vue.js、Vue Router、Vuex、Element Plus </strong>，
